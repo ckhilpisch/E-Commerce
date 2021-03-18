@@ -62,7 +62,7 @@ The user has options to do the following things with the database:
 <iframe src="https://drive.google.com/file/d/1dT3BC9Hmb9ngt6NrSiYmEZNNk15_hGIr/preview" width="640" height="480">embedded video</iframe> -->
 
 ## Here is the video link:
-<a href =https://drive.google.com/file/d/1dT3BC9Hmb9ngt6NrSiYmEZNNk15_hGIr/view>Walk Through Video</a>
+<a href =https://drive.google.com/file/d/1qoeUCeCVgEhhHtqJzuaHixmm02bzeIi9/view>Walk Through Video</a>
 
 ## Testing:
 N/A
