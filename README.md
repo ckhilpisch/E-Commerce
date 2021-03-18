@@ -61,7 +61,7 @@ The user has options to do the following things with the database:
 ### Here is the Website Walk Through:
 <iframe src="https://drive.google.com/file/d/1dT3BC9Hmb9ngt6NrSiYmEZNNk15_hGIr/preview" width="640" height="480">embedded video</iframe> -->
 
-### Here is the same video link:
+## Here is the video link:
 <a href =https://drive.google.com/file/d/1dT3BC9Hmb9ngt6NrSiYmEZNNk15_hGIr/view>Walk Through Video</a>
 
 ## Testing:
